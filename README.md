@@ -1,2 +1,2 @@
-# saa-c03
-25 Days studies to take saa-c03 exam 
+# AWS SAA-C03
+35 Days study roadmap to take SAA-C03 exam 
